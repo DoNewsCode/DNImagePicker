@@ -1,1 +1,1 @@
-# RenRen-ImagePicker
+# DNImagePicker
